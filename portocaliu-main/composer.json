@@ -1,0 +1,9 @@
+{
+    "name": "php/teorie13",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "app\\" : "./app"
+        }
+    }
+}
